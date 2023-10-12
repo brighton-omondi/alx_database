@@ -1,3 +1,4 @@
+--print full description
 USE information_schema;
 SELECT COLUMN_NAME,
     DATA_TYPE,
