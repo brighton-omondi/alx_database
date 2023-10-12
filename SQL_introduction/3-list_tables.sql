@@ -1,3 +1,3 @@
 USE hbtn_test_db_0;
---list of tables
+-- Show a list of tables in the current database
 SHOW TABLES;
