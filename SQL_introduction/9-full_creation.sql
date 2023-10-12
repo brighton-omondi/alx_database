@@ -1,4 +1,4 @@
-USE hbtn_0c_0;
+USE hbtn_test_db_0;
 --creates a table second_table in the database hbtn_0c_0
 CREATE TABLE IF NOT EXISTS second_table (
     id INT,

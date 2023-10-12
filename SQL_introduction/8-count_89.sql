@@ -1,4 +1,4 @@
-USE hbtn_0c_0;
+USE hbtn_test_db_0;
 --displays the number of records with id = 89
 SELECT COUNT(*)
 FROM first_table
