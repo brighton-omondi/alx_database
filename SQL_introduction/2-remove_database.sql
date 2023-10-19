@@ -1,2 +1,4 @@
---delete database hbtn_0c_0
-DROP DATABASE IF EXISTS hbtn_test_db_0;
+-- 2-remove_database.sql
+
+-- Drop the database only if it exists
+DROP DATABASE IF EXISTS hbtn_0c_0;
